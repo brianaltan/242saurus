@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '242saurus',
-  tagline: 'This is the Way!',
+  tagline: 'I like dinaosaurs, rawr!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -80,7 +80,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/brianaltan/242saurus',
           label: 'GitHub',
           position: 'right',
         },
@@ -124,7 +124,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/brianaltan/242saurus',
             },
           ],
         },
